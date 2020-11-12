@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Kody/CLionProjects/tesseract/library.cpp
+library.h
+C:/Users/Kody/CLionProjects/tesseract/library.h
+iostream
+-
+
+C:/Users/Kody/CLionProjects/tesseract/library.h
+
+C:/Users/Kody/CLionProjects/tesseract/tesseract/defaults.cpp
+defaults.h
+C:/Users/Kody/CLionProjects/tesseract/tesseract/defaults.h
+
+C:/Users/Kody/CLionProjects/tesseract/tesseract/defaults.h
+
