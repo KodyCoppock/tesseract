@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/tesseract.dir/library.cpp.obj"
+  "CMakeFiles/tesseract.dir/tesseract/defaults.cpp.obj"
   "tesseract.lib"
   "tesseract.pdb"
 )

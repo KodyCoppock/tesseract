@@ -154,6 +154,33 @@ library.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\tesseract.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\tesseract.dir\library.cpp.s
 .PHONY : library.cpp.s
 
+tesseract\defaults.obj: tesseract\defaults.cpp.obj
+
+.PHONY : tesseract\defaults.obj
+
+# target to build an object file
+tesseract\defaults.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\tesseract.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\tesseract.dir\tesseract\defaults.cpp.obj
+.PHONY : tesseract\defaults.cpp.obj
+
+tesseract\defaults.i: tesseract\defaults.cpp.i
+
+.PHONY : tesseract\defaults.i
+
+# target to preprocess a source file
+tesseract\defaults.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\tesseract.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\tesseract.dir\tesseract\defaults.cpp.i
+.PHONY : tesseract\defaults.cpp.i
+
+tesseract\defaults.s: tesseract\defaults.cpp.s
+
+.PHONY : tesseract\defaults.s
+
+# target to generate assembly for a file
+tesseract\defaults.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\tesseract.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\tesseract.dir\tesseract\defaults.cpp.s
+.PHONY : tesseract\defaults.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -166,6 +193,9 @@ help:
 	@echo ... library.obj
 	@echo ... library.i
 	@echo ... library.s
+	@echo ... tesseract/defaults.obj
+	@echo ... tesseract/defaults.i
+	@echo ... tesseract/defaults.s
 .PHONY : help
 
 

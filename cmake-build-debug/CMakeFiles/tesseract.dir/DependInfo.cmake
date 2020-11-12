@@ -5,6 +5,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
   "C:/Users/Kody/CLionProjects/tesseract/library.cpp" "C:/Users/Kody/CLionProjects/tesseract/cmake-build-debug/CMakeFiles/tesseract.dir/library.cpp.obj"
+  "C:/Users/Kody/CLionProjects/tesseract/tesseract/defaults.cpp" "C:/Users/Kody/CLionProjects/tesseract/cmake-build-debug/CMakeFiles/tesseract.dir/tesseract/defaults.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "MSVC")
 

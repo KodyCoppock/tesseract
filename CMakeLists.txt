@@ -3,4 +3,4 @@ project(tesseract)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_library(tesseract library.cpp library.h)
+add_library(tesseract library.cpp library.h tesseract/defaults.cpp tesseract/defaults.h)

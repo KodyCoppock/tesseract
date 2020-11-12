@@ -86,6 +86,12 @@
 		<Unit filename="C:/Users/Kody/CLionProjects/tesseract/library.h">
 			<Option target="tesseract"/>
 		</Unit>
+		<Unit filename="C:/Users/Kody/CLionProjects/tesseract/tesseract/defaults.cpp">
+			<Option target="tesseract"/>
+		</Unit>
+		<Unit filename="C:/Users/Kody/CLionProjects/tesseract/tesseract/defaults.h">
+			<Option target="tesseract"/>
+		</Unit>
 		<Unit filename="C:/Users/Kody/CLionProjects/tesseract/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>

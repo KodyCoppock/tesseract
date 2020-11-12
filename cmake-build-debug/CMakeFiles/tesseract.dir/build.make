@@ -80,17 +80,38 @@ CMakeFiles\tesseract.dir\library.cpp.s: cmake_force
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\tesseract.dir\library.cpp.s /c C:\Users\Kody\CLionProjects\tesseract\library.cpp
 <<
 
+CMakeFiles\tesseract.dir\tesseract\defaults.cpp.obj: CMakeFiles\tesseract.dir\flags.make
+CMakeFiles\tesseract.dir\tesseract\defaults.cpp.obj: ..\tesseract\defaults.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Kody\CLionProjects\tesseract\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/tesseract.dir/tesseract/defaults.cpp.obj"
+	C:\PROGRA~2\MICROS~2\2017\COMMUN~1\VC\Tools\MSVC\1416~1.270\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\tesseract.dir\tesseract\defaults.cpp.obj /FdCMakeFiles\tesseract.dir\tesseract.pdb /FS -c C:\Users\Kody\CLionProjects\tesseract\tesseract\defaults.cpp
+<<
+
+CMakeFiles\tesseract.dir\tesseract\defaults.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/tesseract.dir/tesseract/defaults.cpp.i"
+	C:\PROGRA~2\MICROS~2\2017\COMMUN~1\VC\Tools\MSVC\1416~1.270\bin\Hostx86\x86\cl.exe > CMakeFiles\tesseract.dir\tesseract\defaults.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Kody\CLionProjects\tesseract\tesseract\defaults.cpp
+<<
+
+CMakeFiles\tesseract.dir\tesseract\defaults.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/tesseract.dir/tesseract/defaults.cpp.s"
+	C:\PROGRA~2\MICROS~2\2017\COMMUN~1\VC\Tools\MSVC\1416~1.270\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\tesseract.dir\tesseract\defaults.cpp.s /c C:\Users\Kody\CLionProjects\tesseract\tesseract\defaults.cpp
+<<
+
 # Object files for target tesseract
 tesseract_OBJECTS = \
-"CMakeFiles\tesseract.dir\library.cpp.obj"
+"CMakeFiles\tesseract.dir\library.cpp.obj" \
+"CMakeFiles\tesseract.dir\tesseract\defaults.cpp.obj"
 
 # External object files for target tesseract
 tesseract_EXTERNAL_OBJECTS =
 
 tesseract.lib: CMakeFiles\tesseract.dir\library.cpp.obj
+tesseract.lib: CMakeFiles\tesseract.dir\tesseract\defaults.cpp.obj
 tesseract.lib: CMakeFiles\tesseract.dir\build.make
 tesseract.lib: CMakeFiles\tesseract.dir\objects1.rsp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Kody\CLionProjects\tesseract\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX static library tesseract.lib"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Kody\CLionProjects\tesseract\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX static library tesseract.lib"
 	$(CMAKE_COMMAND) -P CMakeFiles\tesseract.dir\cmake_clean_target.cmake
 	C:\PROGRA~2\MICROS~2\2017\COMMUN~1\VC\Tools\MSVC\1416~1.270\bin\Hostx86\x86\link.exe /lib /nologo /machine:X86 /out:tesseract.lib @CMakeFiles\tesseract.dir\objects1.rsp 
 
