@@ -10,6 +10,7 @@ class defaults {
 public:
     enum currency {USD,GBP};
     enum currency getCurrency();
+    void setCurrency(currency curr);
 protected:
     currency defaultCurrency;
 };

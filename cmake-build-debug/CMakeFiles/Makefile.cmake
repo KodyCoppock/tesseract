@@ -7,31 +7,53 @@ set(CMAKE_DEPENDS_GENERATOR "NMake Makefiles")
 # The top level Makefile was generated from the following files:
 set(CMAKE_MAKEFILE_DEPENDS
   "CMakeCache.txt"
+  "C:/Users/Kody/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/202.7660.37/bin/cmake/win/share/cmake-3.17/Modules/BasicConfigVersion-AnyNewerVersion.cmake.in"
   "C:/Users/Kody/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/202.7660.37/bin/cmake/win/share/cmake-3.17/Modules/CMakeCInformation.cmake"
   "C:/Users/Kody/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/202.7660.37/bin/cmake/win/share/cmake-3.17/Modules/CMakeCXXInformation.cmake"
   "C:/Users/Kody/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/202.7660.37/bin/cmake/win/share/cmake-3.17/Modules/CMakeCommonLanguageInclude.cmake"
+  "C:/Users/Kody/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/202.7660.37/bin/cmake/win/share/cmake-3.17/Modules/CMakeDependentOption.cmake"
   "C:/Users/Kody/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/202.7660.37/bin/cmake/win/share/cmake-3.17/Modules/CMakeExtraGeneratorDetermineCompilerMacrosAndIncludeDirs.cmake"
   "C:/Users/Kody/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/202.7660.37/bin/cmake/win/share/cmake-3.17/Modules/CMakeFindCodeBlocks.cmake"
   "C:/Users/Kody/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/202.7660.37/bin/cmake/win/share/cmake-3.17/Modules/CMakeGenericSystem.cmake"
   "C:/Users/Kody/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/202.7660.37/bin/cmake/win/share/cmake-3.17/Modules/CMakeInitializeConfigs.cmake"
   "C:/Users/Kody/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/202.7660.37/bin/cmake/win/share/cmake-3.17/Modules/CMakeLanguageInformation.cmake"
+  "C:/Users/Kody/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/202.7660.37/bin/cmake/win/share/cmake-3.17/Modules/CMakePackageConfigHelpers.cmake"
   "C:/Users/Kody/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/202.7660.37/bin/cmake/win/share/cmake-3.17/Modules/CMakeRCInformation.cmake"
   "C:/Users/Kody/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/202.7660.37/bin/cmake/win/share/cmake-3.17/Modules/CMakeSystemSpecificInformation.cmake"
   "C:/Users/Kody/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/202.7660.37/bin/cmake/win/share/cmake-3.17/Modules/CMakeSystemSpecificInitialize.cmake"
+  "C:/Users/Kody/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/202.7660.37/bin/cmake/win/share/cmake-3.17/Modules/CheckCSourceCompiles.cmake"
+  "C:/Users/Kody/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/202.7660.37/bin/cmake/win/share/cmake-3.17/Modules/CheckIncludeFile.cmake"
+  "C:/Users/Kody/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/202.7660.37/bin/cmake/win/share/cmake-3.17/Modules/CheckLibraryExists.cmake"
   "C:/Users/Kody/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/202.7660.37/bin/cmake/win/share/cmake-3.17/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
   "C:/Users/Kody/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/202.7660.37/bin/cmake/win/share/cmake-3.17/Modules/Compiler/MSVC-C.cmake"
   "C:/Users/Kody/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/202.7660.37/bin/cmake/win/share/cmake-3.17/Modules/Compiler/MSVC-CXX.cmake"
+  "C:/Users/Kody/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/202.7660.37/bin/cmake/win/share/cmake-3.17/Modules/FindPackageHandleStandardArgs.cmake"
+  "C:/Users/Kody/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/202.7660.37/bin/cmake/win/share/cmake-3.17/Modules/FindPackageMessage.cmake"
+  "C:/Users/Kody/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/202.7660.37/bin/cmake/win/share/cmake-3.17/Modules/FindPythonInterp.cmake"
+  "C:/Users/Kody/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/202.7660.37/bin/cmake/win/share/cmake-3.17/Modules/FindThreads.cmake"
+  "C:/Users/Kody/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/202.7660.37/bin/cmake/win/share/cmake-3.17/Modules/GNUInstallDirs.cmake"
   "C:/Users/Kody/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/202.7660.37/bin/cmake/win/share/cmake-3.17/Modules/Platform/Windows-MSVC-C.cmake"
   "C:/Users/Kody/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/202.7660.37/bin/cmake/win/share/cmake-3.17/Modules/Platform/Windows-MSVC-CXX.cmake"
   "C:/Users/Kody/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/202.7660.37/bin/cmake/win/share/cmake-3.17/Modules/Platform/Windows-MSVC.cmake"
   "C:/Users/Kody/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/202.7660.37/bin/cmake/win/share/cmake-3.17/Modules/Platform/Windows.cmake"
   "C:/Users/Kody/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/202.7660.37/bin/cmake/win/share/cmake-3.17/Modules/Platform/WindowsPaths.cmake"
   "C:/Users/Kody/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/202.7660.37/bin/cmake/win/share/cmake-3.17/Modules/ProcessorCount.cmake"
+  "C:/Users/Kody/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/202.7660.37/bin/cmake/win/share/cmake-3.17/Modules/WriteBasicConfigVersionFile.cmake"
   "../CMakeLists.txt"
   "CMakeFiles/3.17.3/CMakeCCompiler.cmake"
   "CMakeFiles/3.17.3/CMakeCXXCompiler.cmake"
   "CMakeFiles/3.17.3/CMakeRCCompiler.cmake"
   "CMakeFiles/3.17.3/CMakeSystem.cmake"
+  "../tesseract/test/CMakeLists.txt"
+  "../tesseract/test/lib/CMakeLists.txt"
+  "../tesseract/test/lib/googlemock/CMakeLists.txt"
+  "../tesseract/test/lib/googlemock/cmake/gmock.pc.in"
+  "../tesseract/test/lib/googlemock/cmake/gmock_main.pc.in"
+  "../tesseract/test/lib/googletest/CMakeLists.txt"
+  "../tesseract/test/lib/googletest/cmake/Config.cmake.in"
+  "../tesseract/test/lib/googletest/cmake/gtest.pc.in"
+  "../tesseract/test/lib/googletest/cmake/gtest_main.pc.in"
+  "../tesseract/test/lib/googletest/cmake/internal_utils.cmake"
   )
 
 # The corresponding makefile is:
@@ -43,9 +65,18 @@ set(CMAKE_MAKEFILE_OUTPUTS
 # Byproducts of CMake generate step:
 set(CMAKE_MAKEFILE_PRODUCTS
   "CMakeFiles/CMakeDirectoryInformation.cmake"
+  "tesseract/test/CMakeFiles/CMakeDirectoryInformation.cmake"
+  "tesseract/test/lib/CMakeFiles/CMakeDirectoryInformation.cmake"
+  "tesseract/test/lib/googlemock/CMakeFiles/CMakeDirectoryInformation.cmake"
+  "tesseract/test/lib/googletest/CMakeFiles/CMakeDirectoryInformation.cmake"
   )
 
 # Dependency information for all targets:
 set(CMAKE_DEPEND_INFO_FILES
   "CMakeFiles/tesseract.dir/DependInfo.cmake"
+  "tesseract/test/CMakeFiles/Google_Tests_run.dir/DependInfo.cmake"
+  "tesseract/test/lib/googlemock/CMakeFiles/gmock_main.dir/DependInfo.cmake"
+  "tesseract/test/lib/googlemock/CMakeFiles/gmock.dir/DependInfo.cmake"
+  "tesseract/test/lib/googletest/CMakeFiles/gtest.dir/DependInfo.cmake"
+  "tesseract/test/lib/googletest/CMakeFiles/gtest_main.dir/DependInfo.cmake"
   )

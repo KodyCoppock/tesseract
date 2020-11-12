@@ -7,3 +7,6 @@
 defaults::currency defaults::getCurrency(){
 return defaultCurrency;
 }
+void defaults::setCurrency(currency curr) {
+    defaultCurrency = curr;
+}
