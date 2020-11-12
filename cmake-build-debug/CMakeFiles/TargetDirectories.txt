@@ -1,0 +1,3 @@
+C:/Users/Kody/CLionProjects/tesseract/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Kody/CLionProjects/tesseract/cmake-build-debug/CMakeFiles/tesseract.dir
+C:/Users/Kody/CLionProjects/tesseract/cmake-build-debug/CMakeFiles/edit_cache.dir

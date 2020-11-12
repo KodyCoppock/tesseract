@@ -1,0 +1,6 @@
+#ifndef TESSERACT_LIBRARY_H
+#define TESSERACT_LIBRARY_H
+
+void hello();
+
+#endif //TESSERACT_LIBRARY_H
